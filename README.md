@@ -4,7 +4,7 @@
 -->
 ### Hi there 👋
 
-- 🔭 I’m currently working on my homewoek
+- 🔭 I’m currently working on my homework
 - 🌱 I’m currently learning Java, C and Python
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
